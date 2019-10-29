@@ -1,6 +1,6 @@
-#kali-linux
+# kali-linux
 estudio de kali-linux
-##descripción
+## descripción
 aqui trataremos estos apartados 
-##referencia
+## referencia
 [wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
